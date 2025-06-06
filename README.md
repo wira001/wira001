@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wira001
-- 👀 I’m from Malaysia.
+- 👀 Currently living in Malaysia
 - 🌱 I’m currently doing front end web development using Angular as primary framework.
 
 <!---
